@@ -1,10 +1,12 @@
 # Kotlin in action
 
+## Kotlin in action 스터디
+![Kotlin in action 책](./README.jpeg)
+
 ## 스터디원
 - 헌섭, ms, jk, 우, 이든, 레온, 리차드, 제니  
 
 ## 유의사항
-- Kotlin in action 책
 - 리볼빙, 세미나 스터디
 - 매주 월요일 오후 9시 스터디
 - 2022 1 17 (월) 시작
